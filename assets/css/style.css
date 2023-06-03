@@ -592,6 +592,10 @@ section {
   height: 80px;
 }
 
+.cta-phone-imgs img{
+	height: 400px;
+}
+
 .cta-section h2 {
   color: #1acc8d;
   font-size: 3rem;
@@ -840,10 +844,6 @@ section {
 .cta-section {
   background: #0205a1;
   color: #1acc8d;
-}
-
-.cta-section img{
-  height: 80px;
 }
 
 .cta-section h2 {
