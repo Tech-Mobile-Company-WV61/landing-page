@@ -593,7 +593,7 @@ section {
 }
 
 .cta-phone-imgs img{
-	height: 400px;
+	height: 400px !important;
 }
 
 .cta-section h2 {
